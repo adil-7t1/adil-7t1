@@ -24,11 +24,11 @@
 
 Data Science undergraduate with hands-on experience building **end-to-end ML pipelines, NLP systems, real-time big data solutions, and AI automation workflows**.
 
-- 🎓 **BS Data Science** — University of Central Punjab (Oct 2023 – Present)
+- 🎓 **BS Data Science** University of Central Punjab (Oct 2023 – Present)
 - 🔬 Built a **Financial Fraud Detection** system on **6.3M transactions** using PySpark + Kafka
 - 🤖 Benchmarked **10 NLP architectures** (Simple RNN → RoBERTa) on Flipkart reviews
-- 🍽️ Developed **DealRadar** — a restaurant discount aggregator with AI chatbot (scored 97/100)
-- 🏥 Built **MediExplain AI** — a multi-agent medical report explainer using LLaMA-3.3-70B
+- 🍽️ Developed **DealRadar** a restaurant discount aggregator with AI chatbot (scored 97/100)
+- 🏥 Built **MediExplain AI** a multi-agent medical report explainer using LLaMA-3.3-70B
 
 ---
 
@@ -76,7 +76,7 @@ Data Science undergraduate with hands-on experience building **end-to-end ML pip
 
 ---
 
-### 🍽️ DealRadar — Restaurant Discount Aggregator &nbsp;`97/100`
+### 🍽️ DealRadar Restaurant Discount Aggregator &nbsp;`97/100`
 > AI-powered bank card deal & restaurant discount platform
 
 - **Stack:** Python · BeautifulSoup · Neon PostgreSQL · KNIME · n8n · Streamlit
@@ -87,7 +87,7 @@ Data Science undergraduate with hands-on experience building **end-to-end ML pip
 
 ---
 
-### 🏥 MediExplain AI — Diabetes Edition
+### 🏥 MediExplain AI Diabetes Edition
 > Multi-agent NLP pipeline for medical lab report interpretation
 
 - **Stack:** Python · Groq API (LLaMA-3.3-70B) · Streamlit · Docker
@@ -97,7 +97,7 @@ Data Science undergraduate with hands-on experience building **end-to-end ML pip
 
 ---
 
-### 🧠 Deep NLP — Sentiment Analysis Benchmark
+### 🧠 Deep NLP Sentiment Analysis Benchmark
 > Comprehensive benchmark of 10 NLP architectures
 
 - **Stack:** Python · TensorFlow · BERT · DistilBERT · RoBERTa · T5
