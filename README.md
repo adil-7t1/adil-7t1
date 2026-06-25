@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muhammad Adil Khan 👋</h1>
+<h1 align="center">Muhammad Adil Khan</h1>
 
 <p align="center">
   <b>BS Data Science @ University of Central Punjab, Lahore</b><br/>
