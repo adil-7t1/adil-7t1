@@ -28,11 +28,11 @@
 
 I'm a **Data Science undergraduate** who builds end-to-end AI systems — from real-time big data pipelines to intelligent WhatsApp assistants. I love turning complex problems into clean, working solutions.
 
-- 🎓 **BS Data Science** — University of Central Punjab (Oct 2023 – Present)
-- 🤖 Built **Aria** — a full WhatsApp AI Assistant with voice, image & web search
+- 🎓 **BS Data Science** University of Central Punjab (Oct 2023 – Present)
+- 🤖 Built **Aria** a full WhatsApp AI Assistant with voice, image & web search
 - 🔴 Engineered a **Fraud Detection** pipeline on 6.3M+ transactions using PySpark + Kafka
-- 🍽️ Created **DealRadar** — a restaurant deal aggregator with AI chatbot (scored 97/100)
-- 🏥 Built **MediExplain AI** — a multi-agent medical report explainer using LLaMA-3.3-70B
+- 🍽️ Created **DealRadar** a restaurant deal aggregator with AI chatbot (scored 97/100)
+- 🏥 Built **MediExplain AI** a multi-agent medical report explainer using LLaMA-3.3-70B
 - 📊 Benchmarked **10 NLP architectures** from RNN to RoBERTa on Flipkart reviews
 
 ---
@@ -73,7 +73,7 @@ I'm a **Data Science undergraduate** who builds end-to-end AI systems — from r
 
 ## 📂 Featured Projects
 
-### 🤖 [Aria AI — WhatsApp Personal Assistant](https://github.com/adil-7t1/Aria_Ai)
+### 🤖 [Aria AI WhatsApp Personal Assistant](https://github.com/adil-7t1/Aria_Ai)
 > Intelligent WhatsApp assistant with voice, image & web search capabilities
 
 - **Stack:** n8n Cloud · Groq API · Meta WhatsApp Business API · Tavily Search
@@ -94,7 +94,7 @@ I'm a **Data Science undergraduate** who builds end-to-end AI systems — from r
 
 ---
 
-### 🍽️ [DealRadar — Restaurant Discount Aggregator](https://github.com/adil-7t1/DealRadar) `97/100`
+### 🍽️ [DealRadar Restaurant Discount Aggregator](https://github.com/adil-7t1/DealRadar)
 > AI-powered bank card deal & restaurant discount platform
 
 - **Stack:** Python · BeautifulSoup · Neon PostgreSQL · KNIME · n8n · Streamlit
@@ -105,7 +105,7 @@ I'm a **Data Science undergraduate** who builds end-to-end AI systems — from r
 
 ---
 
-### 🏥 [MediExplain AI — Diabetes Edition](https://github.com/adil-7t1/MediExplain-AI)
+### 🏥 [MediExplain AI Diabetes Edition](https://github.com/adil-7t1/MediExplain-AI)
 > Multi-agent NLP pipeline for medical lab report interpretation
 
 - **Stack:** Python · Groq API (LLaMA-3.3-70B) · Streamlit · Docker · FAISS
@@ -115,7 +115,7 @@ I'm a **Data Science undergraduate** who builds end-to-end AI systems — from r
 
 ---
 
-### 🧠 Deep NLP — Sentiment Analysis Benchmark
+### 🧠 Deep NLP Sentiment Analysis Benchmark
 > Comprehensive benchmark of 10 NLP architectures on Flipkart reviews
 
 - **Stack:** Python · TensorFlow · BERT · DistilBERT · RoBERTa · T5
